@@ -1,3 +1,4 @@
+<pre>
 the input list could... 
 upon selection of a letter... give letter list.
 or you could have a number list... to get new abcdefghijklmnop
@@ -10,3 +11,4 @@ The program will evaluate entries and not allow the creation if it already exist
 will autogenerate next website file.
 when you are inputting it will list... 
 when you shift list the input shown will change.
+</pre>
